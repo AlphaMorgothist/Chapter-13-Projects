@@ -1,0 +1,6 @@
+﻿  Chapter13Projects.cpp
+c:\users\denisa craus\source\repos\chapter 13 projects\chapter 13 projects\chapter13projects.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\denisa craus\source\repos\chapter 13 projects\chapter 13 projects\chapter13projects.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\denisa craus\source\repos\chapter 13 projects\chapter 13 projects\chapter13projects.cpp(343): warning C4018: '<': signed/unsigned mismatch
+  Chapter 13 Projects.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 13 Projects\Debug\Chapter 13 Projects.exe
+  Chapter 13 Projects.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 13 Projects\Debug\Chapter 13 Projects.pdb (Partial PDB)
